@@ -1,0 +1,14 @@
+{
+  "name": "@smart-contracts-showcase/smart-contracts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "remix-ide compile",
+    "test": "remix-ide test",
+    "deploy": "remix-ide deploy"
+  },
+  "dependencies": {
+    "remix-ide": "^0.10.3",
+    "ethers": "^5.0.0"
+  }
+}
